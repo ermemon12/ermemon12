@@ -32,7 +32,10 @@
 ## 🚀 Projects  
 🔹 [**Supermarket Sales Dashboard**](https://github.com/ermemon12/supermarket-sales-dashboard) – Interactive dashboards, KPIs & customer insights *(Power BI + Python)*.  
 🔹 [**Violence Against Women Dashboard**](https://github.com/ermemon12/violence-against-women-dashboard) – Social-impact analytics with data cleaning & visualization *(Python + Excel)*.  
-🔹 **House Price Prediction App** – Built an ML-powered web app to predict house prices *(Python, Flask, HTML/CSS)*.  
+🔹 [**House Price Prediction App**](https://github.com/ermemon12/HousePriceAI.git) – Built an ML-powered web app to predict house prices *(Python, Flask, HTML/CSS)*. 
+ 
+ ### 🔗 Live Demo: https://phenomenal-capybara-8aeee5.netlify.app/
+
 
 
 ---
