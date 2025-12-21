@@ -1,5 +1,5 @@
 # 👋 Eram Kandhal  
-**Machine Learning | Data Science | Software Engineering Intern**
+**Machine Learning | Data Science **
 
 📍 Mumbai, India | 🌍 Open to Remote  
 📧 **erammemon392@gmail.com**  
